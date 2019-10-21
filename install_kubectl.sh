@@ -1,0 +1,4 @@
+wget http://mirrors.ustc.edu.cn/kubernetes/apt/pool/kubectl_1.14.2-00_amd64_98c512ffae2ab4b42b86ba3ae51c9a3621828867c395f6729931d977b5c51ddb.deb
+sudo dpkg -i kubectl_1.14.2-00_amd64_98c512ffae2ab4b42b86ba3ae51c9a3621828867c395f6729931d977b5c51ddb.deb 
+rm kubectl_1.14.2-00_amd64_98c512ffae2ab4b42b86ba3ae51c9a3621828867c395f6729931d977b5c51ddb.deb
+
